@@ -1,2 +1,2 @@
 # Labirint
-This is simple shooter and wanderer game
+Это простая шутерная игра-бродилка
